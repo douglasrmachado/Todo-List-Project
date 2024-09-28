@@ -31,7 +31,7 @@ body {
     border: none;
     border-radius: 5px;
     height: 40px;
-    background-color: rgba(25, 25, 189, 0.87);
+    background-color: rgb(103, 37, 255);
     color: #fff;
     font-size: 17px;
     padding: 0 15px;
@@ -76,3 +76,8 @@ img {
     opacity: 1;
 }
 
+.done {
+    background-color: #2c9b22;
+    text-decoration: line-through;
+    
+}
